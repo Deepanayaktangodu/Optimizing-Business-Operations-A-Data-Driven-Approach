@@ -1,5 +1,6 @@
 # Optimizing-Business-Operations-A-Data-Driven-Approach
 📌 Project Overview
+
 This project leverages SQL to analyze key business operations, including sales, employee performance, profitability, and inventory management. The dataset comprises structured business data spanning multiple departments, enabling insights into revenue trends, product sales, and workforce efficiency.
 
 📊 Key Analyses & Insights
